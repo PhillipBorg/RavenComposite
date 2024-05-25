@@ -11,6 +11,12 @@ header{
 	
 }
 
+a{
+	color: #fff;
+	text-decoration: none;
+	
+}
+
 a:hover{
 	color: #29ab87;
 ]
